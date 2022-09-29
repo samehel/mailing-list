@@ -26,8 +26,6 @@ This is a Pelcro Inc. technical assessment using ReactJS alongside the Loqate AP
 * [React-Loqate](https://www.npmjs.com/package/react-loqate) - The NPM package used
 * [Loqate](https://www.loqate.com/) - The official Loqate website
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## Acknowledgments
 
 * [Outdated Loqate Guide](https://www.linkedin.com/pulse/loqate-address-lookup-react-allan-walker/) - Used to get an idea of how the 'react-loqate' package should be implemented
