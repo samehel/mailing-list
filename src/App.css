@@ -1,0 +1,60 @@
+@font-face {
+  font-family: 'louis_george_caferegular';
+  src: url('./fonts/louis_george_cafe-webfont.woff2') format('woff2'),
+       url('./fonts/louis_george_cafe-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+input {
+  z-index: 99999;
+}
+
+h1 {
+  text-align: center;
+}
+
+.cntr {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'louis_george_caferegular', Arial, sans-serif;
+}
+
+.rdbtns{
+  margin: 0 10px 0 67px;
+}
+
+.tb1 {
+  float:left;
+  margin-right:20px;
+}
+
+.tb2 {
+  float:left;
+}
+
+.nameID {
+  display:block;
+}
+
+.btn {
+  border: 2px solid black;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  font-family: 'louis_george_caferegular', Arial, sans-serif;
+  width: 375px;
+}
+
+.default {
+  border-color: #000000;
+  color: black;
+}
+
+.default:hover {
+  background: #000000;
+  color: #ffffff
+}
